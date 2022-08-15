@@ -3,3 +3,5 @@ Este repositorio tiene objetivo contener el rejercicio básico para aprender rep
 
 Esta linea representa la modificación del archivo README.md desde el editor web de GitHub.com
 También aprendimos que el archivo README.md es compatible con [MarkDown](https://stackedit.io/app#)
+
+Esta linea representa el segundo commit realizado via web. Mi perfil de github es el siguiente [Hugo Escalpelo](https://github.com/hugoescalpelo)
