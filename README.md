@@ -14,3 +14,4 @@ Este es el tercer commit por terminal y se agrega un nuevo archivo: texto.txt
 
 Este es el cuarto commit por terminal, para ejemplificar el Pull en Github Desktop
 
+Este es el primer commit por GitHub Desktop. Se usará para mostrar el funcionamiento de Pull en Git por terminal
