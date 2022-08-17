@@ -1,0 +1,3 @@
+Hola grupo 10
+
+Con este archivo mostraremos el uso del staging
