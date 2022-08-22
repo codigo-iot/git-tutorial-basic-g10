@@ -17,3 +17,5 @@ Este es el cuarto commit por terminal, para ejemplificar el Pull en Github Deskt
 Este es el primer commit por GitHub Desktop. Se usará para mostrar el funcionamiento de Pull en Git por terminal
 
 Esta linea representa un commit realizado con la función de Source Control integrada en Visual Studio Code
+
+Esta linea representa un commit realizado con la extensión "GitHub Pull Requests and Issues"
